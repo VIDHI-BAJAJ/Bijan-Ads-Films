@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="600" viewBox="0 0 1000 600">
+  <defs>
+    <clipPath id="clip-Artboard_3">
+      <rect width="1000" height="600"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_3" data-name="Artboard – 3" clip-path="url(#clip-Artboard_3)">
+    <rect width="1000" height="600" fill="#fff"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(92.788 263.963)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(-0.01 -0.005)">
+        <path id="Path_126" data-name="Path 126" d="M226.53,68.433V5.63h21.547v62.8Z" transform="translate(-38.137 -0.944)"/>
+        <path id="Path_127" data-name="Path 127" d="M369.6,5.611v62.8H346.256l-52.9-40.291V68.415H271.81V5.52h25.78l50.487,38.5V5.611Z" transform="translate(-45.762 -0.925)"/>
+        <path id="Path_128" data-name="Path 128" d="M493.319,22.711H432.445v11.5h58.662V50.354H432.479V68.433H410.94V5.63h82.379Z" transform="translate(-69.191 -0.944)"/>
+        <path id="Path_129" data-name="Path 129" d="M526.15,68.433V5.63h21.539v62.8Z" transform="translate(-88.591 -0.944)"/>
+        <path id="Path_130" data-name="Path 130" d="M671.369,5.611v62.8H648.034L595.127,28.123V68.415H573.58V5.52h25.78l50.487,38.5V5.611Z" transform="translate(-96.578 -0.925)"/>
+        <path id="Path_131" data-name="Path 131" d="M732.644,38.033q0,6.911,3.983,10.728t14.229,3.809h11.41q18.387,0,18.387-14.537V5.6H802.2V38.116q0,13.8-8.624,22.5T767.2,69.3H745.816a48.55,48.55,0,0,1-16.092-2.412A31.477,31.477,0,0,1,717,58.066q-5.88-6.412-5.871-19.959V5.625h21.514Z" transform="translate(-119.74 -0.939)"/>
+        <path id="Path_132" data-name="Path 132" d="M862.077,68.433H840.53V5.63h31.052l26.8,41.165,26.1-41.165h31.493v62.8H934.469V26.079L907.624,68.433h-18L862.077,26.171Z" transform="translate(-141.53 -0.944)"/>
+        <path id="Path_133" data-name="Path 133" d="M109.987,0c-15.8,0-27.061,11.252-36.973,21.622C63.092,11.251,51.8,0,36.032,0a36.04,36.04,0,1,0,0,72.08c15.8,0,27.077-11.256,36.99-21.626C82.943,60.8,94.244,72.075,109.987,72.075a36.04,36.04,0,1,0,0-72.08Zm15.8,36.034a15.8,15.8,0,0,1-15.8,15.8c-7.435,0-14.628-7.285-22.811-15.8,7.917-8.266,15.418-15.8,22.811-15.8a15.8,15.8,0,0,1,15.825,15.8Zm-66.961,0c-7.6,7.95-15.418,15.8-22.819,15.8a15.8,15.8,0,1,1,0-31.6c7.426-.017,14.586,7.21,22.844,15.809Z" transform="translate(0.01 0.005)" fill="#d82828"/>
+      </g>
+    </g>
+  </g>
+</svg>
